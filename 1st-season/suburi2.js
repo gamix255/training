@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+//suburi2 main js code
+//kick by suburi2-run.sh
 
 var exec = require('child_process').exec;
 exec('cat ./work/a.txt', function(err,stdout,stderr){

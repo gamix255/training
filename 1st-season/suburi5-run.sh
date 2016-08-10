@@ -1,4 +1,4 @@
-#dfsafd!/bin/sh
+#!/bin/sh
 
 # suburi5 script entry point 20160809
 
